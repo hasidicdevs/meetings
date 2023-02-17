@@ -11,7 +11,7 @@
 
 None required. 
 
-The meeting is open to all members of @hasidicdevs
+The meeting is open to all members of @hasidicdevs must have the role on the discord server to attend the meetings, speak to Abby if it is missing.
 
 ## Logistics
 
@@ -22,7 +22,9 @@ The meeting is open to all members of @hasidicdevs
 ## Agenda items
 
 1. Opening & Welcome
-1. Roadmap
+1. Whatever Stuff....
+1. Whatever Stuff....
+1. Whatever Stuff....
 1. Final comments and discussion
 
 ## Meeting Notes

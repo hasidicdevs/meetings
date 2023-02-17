@@ -1,6 +1,6 @@
 # Hasidic Development Group
 
-Each meeting has its own agenda which is published before the meeting. Minutes will be posted in the agenda document after the meeting concludes, including topics discussed, decisions made, and future items for discussion.
+Each meeting has its own agenda which is published before the meeting. Minutes will be posted in the agenda document after the meeting concludes, including topics discussed, decisions made, and future items for discussion. The outline for new meetings is in [FORMAT](FORMAT.md) the process for scheduling meetings and follow up is in [PROCESS](PROCESS.md)
 
 ## Information on open Community meetings
 
