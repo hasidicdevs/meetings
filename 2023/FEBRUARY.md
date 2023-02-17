@@ -9,7 +9,7 @@
 
 ### Registration
 
-None required. The meeting is open to all members of @hasidicdevs members will have the role assigned on discord, if you do not have the role speak to Abby!
+The meeting is open to all members of @hasidicdevs members will have the role assigned on discord, if you do not have the role speak to Abby.
 
 ## Logistics
 
@@ -25,6 +25,9 @@ None required. The meeting is open to all members of @hasidicdevs members will h
 1. Discuss Internal Tools
   1. Client Onboarding
   1. Employee Scripts
+1. Discuss Teams and Membership
+  1. How to Join
+  1. Contributing
 1. Roadmap
 1. Final comments and discussion
 
