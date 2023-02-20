@@ -33,4 +33,4 @@ The meeting is open to all members of @hasidicdevs members will have the role as
 
 ## Meeting Notes
 
-> *To be posted after the meeting*
+> [NOTES](notes/FEB.md)
